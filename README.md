@@ -2,11 +2,12 @@
 
 ## Introduction 
 
-Tweeter IOC hunter written in golnag. Which is based on the twitter-scarpper[https://github.com/n0madic/twitter-scraper] package of golang. Currently this tool just parse the IP,url[Defang and fang both] and hashes.
+Twitter IOC hunter written in golang. Which is based on the twitter-scarpper[https://github.com/n0madic/twitter-scraper] package of golang. Currently this tool parses the IP,url[Defang and fang both] and hashes.
 
 ### installtion 
 
 Step 1: ```go get -u github.com/n0madic/twitter-scraper```
+
 Step 2: ```go build -o twitter_cti twitter_cti_v1.go```
 
 
