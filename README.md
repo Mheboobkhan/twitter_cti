@@ -27,4 +27,4 @@ eg.
 
 ### Limitations 
 1. Unable to parse domains 
-2. Sometime flase positive info is captures 
+2. Sometime false positive info is captures 
