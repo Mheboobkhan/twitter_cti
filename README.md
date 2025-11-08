@@ -1,6 +1,10 @@
-# twitter_cti
+
+# This ptroject will be ready to use again by Jan 2026 inshaALLAH
+## twitter_cti
 
 ## Introduction 
+
+
 
 Twitter IOC hunter written in golang. Which is based on the twitter-scarpper[https://github.com/n0madic/twitter-scraper] package of golang. Currently this tool parses the IP,url[Defang and fang both] and hashes.
 
