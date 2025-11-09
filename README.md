@@ -8,7 +8,7 @@
 Twitter IOC hunter written in golang. Which is based on the twitter-scarpper[https://github.com/n0madic/twitter-scraper] package of golang. Currently this tool parses the IP,url[Defang and fang both] and hashes.
 
 ### installtion 
-Step 0: ```go mod init twitter_cti```
+Step 0: ```go mod init twitter-cti```
 
 Step 1: ```go get -u github.com/n0madic/twitter-scraper```
 
